@@ -1,0 +1,4 @@
+voxcpm>=2.0
+soundfile>=0.12
+scipy>=1.11
+transformers>=4.40
